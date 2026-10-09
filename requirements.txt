@@ -1,0 +1,5 @@
+anthropic>=1.0
+notion-client>=2.2
+playwright>=1.45
+python-dotenv>=1.0
+pytest>=8.0
